@@ -131,8 +131,7 @@ h1, h2, h3 {
 
 Máte otázky? Kontaktujte náš marketingový tým:
 
-📧 E-mail: brand@digimedic.cz<br>
-📞 Telefon: +420 XXX XXX XXX
+📧 E-mail: info@digimedic.cz<br>
 
 ---
 
