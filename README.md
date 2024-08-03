@@ -80,8 +80,8 @@ Naše projekty a iniciativy mají jediný cíl: **zlepšit zdravotní péči v �
 
 | Font | Ukázka | Použití |
 |------|--------|---------|
-| **Space Mono Regular** | <span style="font-family: 'Space Mono', monospace;">AaBbCc123</span> | Nadpisy, logo, klíčové prvky |
-| **Space Mono Semibold** | <span style="font-family: 'Space Mono', monospace; font-weight: 600;">AaBbCc123</span> | Zvýraznění, podnadpisy |
+| **Space Bold Regular** | <span style="font-family: 'Space Mono', monospace;">AaBbCc123</span> | Nadpisy, logo, klíčové prvky |
+| **Space Bold Semibold** | <span style="font-family: 'Space Mono', monospace; font-weight: 600;">AaBbCc123</span> | Zvýraznění, podnadpisy |
 | **Raleway Regular** | <span style="font-family: Raleway, sans-serif;">AaBbCc123</span> | Hlavní text v dokumentech a na webu |
 | **Open Sans** | <span style="font-family: 'Open Sans', sans-serif;">AaBbCc123</span> | Alternativní font pro delší texty |
 
