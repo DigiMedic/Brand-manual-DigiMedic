@@ -53,22 +53,11 @@ naše projekty a iniciativy mají jediný cíl: **zlepšit zdravotní péči v �
 | varianta | náhled | svg | png |
 |----------|--------|-----|-----|
 | logo s modrým symbolem | <img src="https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/png/logo-blue.png" width="100"> | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/svg/logo-blue.svg) | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/png/logo-blue.png) |
-| symbol (favicon) | <img src="https://github.com/DigiMedic/Brand-manual-DigiMedic/blob/main/Brand%20materials/favicon.svg" width="50"> | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/favicon.svg) | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/favicon.png) |
+| symbol (favicon) | <img src="https://github.com/DigiMedic/Brand-manual-DigiMedic/blob/main/Brand%20materials/favicon.svg" width="50"> | [⬇️ favicon (svg)](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/favicon.svg) | [⬇️ favicon (png)](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/favicon.png) |
 | dlouhá verze | <img src="https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo%20long.png" width="200"> | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo%20long.png) | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo%20long.png) |
 | čtvercové logo | <img src="https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo-square.svg" width="100"> | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo-square.svg) | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo-square.png) |
 | logo na pozadí | <img src="https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo%20lone%20backgroubnd.png" width="200"> | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo%20lone%20backgroubnd.png) | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo%20lone%20backgroubnd.png) |
 
-<!-- 
-### další favicony
-- [favicon bílý (png)](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/favicon-white.png)
-- [favicon černý (png)](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/favicon-black.png)
-- [favicon (svg)](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/favicon.svg)
--->
-
-### další varianty loga
-- [⬜ logo bílé (svg)](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/svg/logo-white.svg) | [(png)](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/png/logo-white.png)
-- [⬜ symbol bílý (svg)](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/svg/symbol-white.svg) | [(png)](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/png/symbol-white.png)
-- [⬛ symbol černý (svg)](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/svg/symbol-black.svg) | [(png)](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/png/symbol-black.png)
 
 ### použití loga
 ✅ vždy zajistěte jasnou viditelnost a čitelnost loga<br>
