@@ -1,6 +1,6 @@
 # 🏥 DigiMedic Brand manuál
 
-![DigiMedic Logo](https://github.com/DigiMedic/Brand-manual-DigiMedic/blob/74b4f8b56a8cd0f5bd82bf44eafc3336bcc89750/Brand%20materials/DigiMedic-logo-long.svg)
+![DigiMedic Logo](https://github.com/DigiMedic/Brand-manual-DigiMedic/blob/main/Brand%20materials/DigiMedic-logo-long.svg)
 
 > ### 💙 digitální páteř českého zdravotnictví
 
@@ -19,7 +19,7 @@
 
 vítejte v brand manuálu DigiMedic. tento dokument je vaším průvodcem pro konzistentní a profesionální prezentaci naší značky napříč všemi komunikačními kanály.
 
-📁 [zobrazit všechny brand materiály](https://github.com/DigiMedic/Brand-manual-DigiMedic/tree/74b4f8b56a8cd0f5bd82bf44eafc3336bcc89750/Brand%20materials)
+📁 [zobrazit všechny brand materiály](https://github.com/DigiMedic/Brand-manual-DigiMedic/tree/main/Brand%20materials)
 
 ---
 
@@ -37,25 +37,25 @@ naše projekty a iniciativy mají jediný cíl: **zlepšit zdravotní péči v �
 ## 🎨 logo
 
 ### primární logo
-<img src="https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/74b4f8b56a8cd0f5bd82bf44eafc3336bcc89750/Brand%20materials/logo/png/logo-black.png" width="300">
+<img src="https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/png/logo-black.png" width="300">
 
 | formát | odkaz ke stažení |
 |--------|------------------|
-| svg    | [⬇️ stáhnout](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/74b4f8b56a8cd0f5bd82bf44eafc3336bcc89750/Brand%20materials/logo/svg/logo-black.svg) |
-| png    | [⬇️ stáhnout](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/74b4f8b56a8cd0f5bd82bf44eafc3336bcc89750/Brand%20materials/logo/png/logo-black.png) |
+| svg    | [⬇️ stáhnout](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/svg/logo-black.svg) |
+| png    | [⬇️ stáhnout](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/png/logo-black.png) |
 
 ### varianty loga
 
 | varianta | náhled | svg | png |
 |----------|--------|-----|-----|
-| logo s modrým symbolem | <img src="https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/74b4f8b56a8cd0f5bd82bf44eafc3336bcc89750/Brand%20materials/logo/png/logo-blue.png" width="100"> | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/74b4f8b56a8cd0f5bd82bf44eafc3336bcc89750/Brand%20materials/logo/svg/logo-blue.svg) | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/74b4f8b56a8cd0f5bd82bf44eafc3336bcc89750/Brand%20materials/logo/png/logo-blue.png) |
-| symbol (favicon) | <img src="https://github.com/DigiMedic/Brand-manual-DigiMedic/blob/7feebef778fdb1a2ea5c5b41dca01c11759d6b2f/Brand%20materials/FAVICON.png" width="50"> | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/7feebef778fdb1a2ea5c5b41dca01c11759d6b2f/Brand%20materials/logo/svg/symbol-blue.svg) | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/7feebef778fdb1a2ea5c5b41dca01c11759d6b2f/Brand%20materials/logo/png/symbol-blue.png) |
-| dlouhá verze | <img src="https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/74b4f8b56a8cd0f5bd82bf44eafc3336bcc89750/Brand%20materials/logo/png/logo-long.png" width="200"> | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/74b4f8b56a8cd0f5bd82bf44eafc3336bcc89750/Brand%20materials/logo/svg/logo-long.svg) | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/74b4f8b56a8cd0f5bd82bf44eafc3336bcc89750/Brand%20materials/logo/png/logo-long.png) |
+| logo s modrým symbolem | <img src="https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/png/logo-blue.png" width="100"> | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/svg/logo-blue.svg) | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/png/logo-blue.png) |
+| symbol (favicon) | <img src="https://github.com/DigiMedic/Brand-manual-DigiMedic/blob/main/Brand%20materials/FAVICON.png" width="50"> | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/svg/symbol-blue.svg) | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/png/symbol-blue.png) |
+| dlouhá verze | <img src="https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/png/logo-long.png" width="200"> | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/svg/logo-long.svg) | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/png/logo-long.png) |
 
 ### další varianty loga
-- [⬜ logo bílé (svg)](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/74b4f8b56a8cd0f5bd82bf44eafc3336bcc89750/Brand%20materials/logo/svg/logo-white.svg) | [(png)](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/74b4f8b56a8cd0f5bd82bf44eafc3336bcc89750/Brand%20materials/logo/png/logo-white.png)
-- [⬜ symbol bílý (svg)](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/74b4f8b56a8cd0f5bd82bf44eafc3336bcc89750/Brand%20materials/logo/svg/symbol-white.svg) | [(png)](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/74b4f8b56a8cd0f5bd82bf44eafc3336bcc89750/Brand%20materials/logo/png/symbol-white.png)
-- [⬛ symbol černý (svg)](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/74b4f8b56a8cd0f5bd82bf44eafc3336bcc89750/Brand%20materials/logo/svg/symbol-black.svg) | [(png)](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/74b4f8b56a8cd0f5bd82bf44eafc3336bcc89750/Brand%20materials/logo/png/symbol-black.png)
+- [⬜ logo bílé (svg)](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/svg/logo-white.svg) | [(png)](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/png/logo-white.png)
+- [⬜ symbol bílý (svg)](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/svg/symbol-white.svg) | [(png)](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/png/symbol-white.png)
+- [⬛ symbol černý (svg)](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/svg/symbol-black.svg) | [(png)](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/png/symbol-black.png)
 
 ### použití loga
 ✅ vždy zajistěte jasnou viditelnost a čitelnost loga<br>
