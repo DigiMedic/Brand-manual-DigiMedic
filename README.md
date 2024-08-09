@@ -1,6 +1,6 @@
 # 🏥 DigiMedic Brand Manuál
 
-![DigiMedic Logo](https://github.com/DigiMedic/Brand-manual-DigiMedic/blob/46d4b0545079ec36e55860bd58feb5037df29a44/Brand%20materials/DigiMedic-logo-long.svg)
+![DigiMedic Logo]([https://github.com/DigiMedic/Brand-manual-DigiMedic/blob/46d4b0545079ec36e55860bd58feb5037df29a44/Brand%20materials/DigiMedic-logo-long.svg](https://github.com/DigiMedic/Brand-manual-DigiMedic/blob/74b4f8b56a8cd0f5bd82bf44eafc3336bcc89750/Brand%20materials/DigiMedic-logo-long.svg))
 
 > ### 💙 Digitální Páteř Českého Zdravotnictví
 
