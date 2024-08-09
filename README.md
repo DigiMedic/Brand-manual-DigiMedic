@@ -25,9 +25,6 @@ vítejte v brand manuálu DigiMedic. tento dokument je vaším průvodcem pro ko
 
 ## 🏢 o společnosti DigiMedic
 
-Sloga: - 🩵 Digitální Páteř pro Zdravotnictví
-
-
 DigiMedic se specializuje na:
 - 🚀 poskytování moderních technologických řešení pro zdravotnictví
 - 💡 efektivní využití technologií pro zlepšení kvality a dostupnosti péče
@@ -60,6 +57,13 @@ naše projekty a iniciativy mají jediný cíl: **zlepšit zdravotní péči v �
 | dlouhá verze | <img src="https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo%20long.png" width="200"> | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo%20long.png) | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo%20long.png) |
 | čtvercové logo | <img src="https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo-square.svg" width="100"> | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo-square.svg) | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo-square.png) |
 | logo na pozadí | <img src="https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo%20lone%20backgroubnd.png" width="200"> | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo%20lone%20backgroubnd.png) | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo%20lone%20backgroubnd.png) |
+
+<!-- 
+### další favicony
+- [favicon bílý (png)](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/favicon-white.png)
+- [favicon černý (png)](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/favicon-black.png)
+- [favicon (svg)](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/favicon.svg)
+-->
 
 ### další varianty loga
 - [⬜ logo bílé (svg)](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/svg/logo-white.svg) | [(png)](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/png/logo-white.png)
