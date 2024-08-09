@@ -30,6 +30,10 @@ DigiMedic se specializuje na:
 - 💡 efektivní využití technologií pro zlepšení kvality a dostupnosti péče
 - 🔬 digitalizaci a automatizaci procesů ve zdravotnictví
 
+![Interoperabilní síť](https://github.com/DigiMedic/Brand-manual-DigiMedic/blob/main/Brand%20materials/INTEREPROABILNI%20SIT.png)
+
+![Digitální páteř](https://github.com/DigiMedic/Brand-manual-DigiMedic/blob/main/Brand%20materials/digitalni%20oater.svg)
+
 naše projekty a iniciativy mají jediný cíl: **zlepšit zdravotní péči v české republice**.
 
 ---
@@ -49,8 +53,10 @@ naše projekty a iniciativy mají jediný cíl: **zlepšit zdravotní péči v �
 | varianta | náhled | svg | png |
 |----------|--------|-----|-----|
 | logo s modrým symbolem | <img src="https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/png/logo-blue.png" width="100"> | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/svg/logo-blue.svg) | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/png/logo-blue.png) |
-| symbol (favicon) | <img src="https://github.com/DigiMedic/Brand-manual-DigiMedic/blob/main/Brand%20materials/FAVICON.png" width="50"> | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/svg/symbol-blue.svg) | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/png/symbol-blue.png) |
-| dlouhá verze | <img src="https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/png/logo-long.png" width="200"> | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/svg/logo-long.svg) | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/png/logo-long.png) |
+| symbol (favicon) | <img src="https://github.com/DigiMedic/Brand-manual-DigiMedic/blob/main/Brand%20materials/favicon.svg" width="50"> | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/favicon.svg) | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/favicon.png) |
+| dlouhá verze | <img src="https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo%20long.png" width="200"> | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo%20long.png) | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo%20long.png) |
+| čtvercové logo | <img src="https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo-square.svg" width="100"> | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo-square.svg) | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo-square.png) |
+| logo na pozadí | <img src="https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo%20lone%20backgroubnd.png" width="200"> | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo%20lone%20backgroubnd.png) | [⬇️](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo%20lone%20backgroubnd.png) |
 
 ### další varianty loga
 - [⬜ logo bílé (svg)](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/svg/logo-white.svg) | [(png)](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/png/logo-white.png)
