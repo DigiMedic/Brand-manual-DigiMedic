@@ -25,6 +25,9 @@ vítejte v brand manuálu DigiMedic. tento dokument je vaším průvodcem pro ko
 
 ## 🏢 o společnosti DigiMedic
 
+Sloga: - 🩵 Digitální Páteř pro Zdravotnictví
+
+
 DigiMedic se specializuje na:
 - 🚀 poskytování moderních technologických řešení pro zdravotnictví
 - 💡 efektivní využití technologií pro zlepšení kvality a dostupnosti péče
