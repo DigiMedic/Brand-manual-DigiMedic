@@ -40,14 +40,6 @@ naše projekty a iniciativy mají jediný cíl: **zlepšit zdravotní péči v �
 
 ## 🎨 logo
 
-### primární logo
-<img src="https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/png/logo-black.png" width="300">
-
-| formát | odkaz ke stažení |
-|--------|------------------|
-| svg    | [⬇️ stáhnout](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/svg/logo-black.svg) |
-| png    | [⬇️ stáhnout](https://github.com/DigiMedic/Brand-manual-DigiMedic/raw/main/Brand%20materials/logo/png/logo-black.png) |
-
 ### varianty loga
 
 | varianta | náhled | svg | png |
